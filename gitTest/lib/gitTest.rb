@@ -1,6 +1,6 @@
-require "testing/version"
+require "gitTest/version"
 
-module Testing
+module GitTest
   class Error < StandardError; end
   # Your code goes here...
 end
